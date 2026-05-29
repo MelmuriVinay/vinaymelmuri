@@ -1,14 +1,14 @@
-# Hi, I'm Vinay Melmuri 👋
+# Hi, I'm Vinay Melmuri 
 
 Full Stack Java Developer with experience in building scalable business applications using Java, Spring Boot, Angular, and MySQL.
 
-## 🚀 About Me
+##  About Me
 
 * 💻 3+ years of software engineering experience
-* ⚙️ Backend-focused full stack developer
-* 🏢 Built and deployed a commercial Warehouse Management System
+*  Backend-focused full stack developer
+*  Built and deployed a commercial Warehouse Management System
 * 📊 Experience in accounting, ledger systems, financial reporting, and inventory management
-* 🔧 Interested in backend architecture and scalable systems
+*  Interested in backend architecture and scalable systems
 
 ---
 
@@ -64,7 +64,7 @@ Java | Spring Boot | Angular | MySQL | Electron
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-* LinkedIn: ADD_LINKEDIN
+* LinkedIn: www.linkedin.com/in/vinay-melmuri-a74646314
 * Email: [vinaymelmuribsm@gmail.com](mailto:vinaymelmuribsm@gmail.com)
